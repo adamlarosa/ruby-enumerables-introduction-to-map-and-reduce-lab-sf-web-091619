@@ -55,5 +55,5 @@ end
 
 def reduce_to_all_true
   count = 0
-  
+  while 
 end

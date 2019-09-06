@@ -55,5 +55,5 @@ end
 
 def reduce_to_all_true(source_array)
   count = 0
-  while 
+  while source_array[count] != true do
 end
